@@ -2,8 +2,6 @@
 
 A little experimental piece I did painfully in `GIMP`.
 
-![exist](existentialism.png)
-
 ## Author
 
 - [Theodore Seán Tubbs](https://github.com/AdrianKoshka)
